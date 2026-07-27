@@ -103,13 +103,11 @@ Multimodal AI video understanding platform
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshal-fullstack/harshal-fullstack/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=harshal-fullstack&icon=0&color=0" /></a>
 </p>
 
-> **Setup note:** yeh snake animation ek GitHub Action se generate hoti hai. Neeche wala workflow apne `harshal-fullstack/harshal-fullstack` repo mein daal do (steps end mein diye hain) — first run ke baad automatically image ban jayegi.
+<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
 
 ---
 
