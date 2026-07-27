@@ -123,4 +123,5 @@ Multimodal AI video understanding platform
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:61DAFB&height=120&section=footer" />
 </p>
 
+
 <p align="center"><i>⭐️ Thanks for visiting my profile!</i></p>
